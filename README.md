@@ -121,7 +121,9 @@ Transformer des données brutes en visualisations claires pour faciliter la pris
 
 ---
 
-### 📌 6. [Web Scraping & Analyse de données – IMDb (2022)](IMDb Movies – Web Scraping)
+### 📌 6. [Web Scraping & Analyse de données – IMDb (2022)]
+
+IMDb Movies – Web Scraping
 
 **Contexte**
 Projet de web scraping et d’analyse de données visant à collecter et exploiter des informations sur les films sortis en 2022 à partir du site IMDb, classés par recettes au box-office américain.
